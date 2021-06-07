@@ -1,0 +1,44 @@
+.add-form {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.form-control label{
+  display: block;
+  font-weight: 700;
+}
+
+.form-control input {
+  width: 100%;
+  max-width: 500px;
+  margin: 10px 20px;
+  padding: 10px 15px;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  display: block;
+}
+
+.form-control input::placeholder {
+  font-weight: 700;
+}
+
+.form-checkbox {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.form-checkbox label{
+  display: inline;
+  user-select: none;
+  cursor: pointer;
+}
+
+.form-checkbox input{
+  width: 20px;
+  cursor: pointer;
+}
