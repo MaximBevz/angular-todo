@@ -1,0 +1,13 @@
+.container {
+  margin: 50px auto;
+  max-width: 700px;
+  border-size: 2px;
+  border-style: solid;
+  border-bottom-color: lightseagreen;
+  border-left-color: lightseagreen;
+  border-right-color: crimson;
+  border-top-color: crimson;
+  border-radius: 5px;
+  padding: 20px;
+
+}
